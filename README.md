@@ -1,37 +1,40 @@
 # VentureVerse 2026 – Event Landing Page
 
-Task 01 (First-Year) – EDC JSSUN Technical Team Recruitment 2026.
+**Made by:** [AKSHARA THAPLIYAL], B.Tech ECE, 1st Year, JSS University Noida
+**Task:** EDC JSSUN Technical Team Recruitment 2026, Task 01 (First-Year)
+
 A single-page website for the fictional event **VentureVerse 2026 – Ideas into Action**.
 
 ## How to view
-1. Download or unzip the folder.
-2. Double-click `index.html` to open it in any browser. No installation needed.
-(Internet is only needed for the Google Fonts; the page still works without it.)
+1. Download the repository (Code → Download ZIP) and extract it.
+2. Double-click `index.html`. No installation needed.
 
 ## Files
 | File | Purpose |
 |------|---------|
 | `index.html` | Page structure and content |
-| `style.css`  | All styling, colours as variables at the top, mobile rules at the bottom |
-| `script.js`  | Mobile menu, countdown timer, demo form |
+| `style.css` | Styling, colours kept as variables at the top |
+| `script.js` | Mobile menu, countdown, demo form |
 
-## Sections included
-Header with navigation, Hero (name, tagline, date, time, venue, call-to-action), About with 3 highlights,
-Schedule (6 items, timeline), Speakers (3 fictional profiles), Demo registration form, Footer with EDC branding and placeholder contacts.
+## What the page has
+- Header with navigation links and a mobile menu
+- Hero with event name, tagline, date, time, venue and a call-to-action button
+- About section with 3 highlights
+- Schedule as a timeline (6 items)
+- 3 fictional speaker profiles
+- Demo registration form (nothing is stored or sent)
+- Footer with EDC branding and placeholder contacts
+- Live countdown to 12 November 2026
 
-## Features
-- Mobile menu (hamburger) on small screens
-- Live countdown to 12 November 2026, 10:00 AM
-- Demo registration form with simple validation (nothing is stored or sent)
-- Responsive layout, tested for phone, tablet and desktop widths
+## My decisions
+- I used plain HTML, CSS and JavaScript so I could understand and explain every part.
+- I took the navy, teal and orange colours from the EDC logo.
+- I showed the schedule as a timeline because the agenda happens in order.
+- [Add 1 line: something you chose or changed yourself]
 
-## Decisions I made
-- Plain HTML, CSS and JavaScript only, so it is simple to explain and runs anywhere.
-- Navy, teal and orange palette taken from the EDC logo colours.
-- Schedule shown as a vertical timeline because the agenda is a real sequence.
-- Speaker avatars are coloured initials; all speakers and contact details are fictional placeholders.
+## What I learned
+- [Add 1-2 lines: e.g. how the countdown works, how the mobile menu toggles, how CSS media queries work]
 
 ## Credits and AI disclosure
-- Fonts: Bricolage Grotesque and DM Sans from Google Fonts.
-- No external images or icons were used.
-- AI tool used: Claude (Anthropic) helped draft the code and content. I reviewed it and can explain every part.
+- Fonts: Bricolage Grotesque and DM Sans (Google Fonts). No external images.
+- I used Claude (an AI tool) to help draft the code. I tested the page, read through the code, and can explain how each part works.
